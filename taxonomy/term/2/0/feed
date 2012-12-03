@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.getoutzine.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>GetOut! - Departments</title>
+ <link>http://www.getoutzine.com/taxonomy/term/2/0</link>
+ <description>Parent category for department articles</description>
+ <language>en</language>
+<item>
+ <title>The Keeper</title>
+ <link>http://www.getoutzine.com/node/5</link>
+ <description>&lt;p&gt;Most outdoorswomen are grateful for tampons; they are pretty damn convenient. But who wants to pack them out from a backpacking trip?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.getoutzine.com/node/5&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.getoutzine.com/taxonomy/term/2">Departments</category>
+ <category domain="http://www.getoutzine.com/taxonomy/term/13">Reviews (gear, books)</category>
+ <pubDate>Sun, 30 Mar 2008 21:00:38 +0000</pubDate>
+ <dc:creator>master-admin</dc:creator>
+ <guid isPermaLink="false">5 at http://www.getoutzine.com</guid>
+</item>
+<item>
+ <title>Outdoor advice from our resident expert</title>
+ <link>http://www.getoutzine.com/node/8</link>
+ <description>&lt;p&gt;&lt;strong&gt;Hey Doc: I hear that poison ivy is everywhere! All I see is green stuff on the trail. What does it look like, and how do I know I have it? How do I get rid of it?- Itchy Scmitchy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.getoutzine.com/node/8&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.getoutzine.com/taxonomy/term/2">Departments</category>
+ <category domain="http://www.getoutzine.com/taxonomy/term/12">The Doctor is Out!</category>
+ <pubDate>Thu, 03 Jan 2008 05:19:45 +0000</pubDate>
+ <dc:creator>master-admin</dc:creator>
+ <guid isPermaLink="false">8 at http://www.getoutzine.com</guid>
+</item>
+<item>
+ <title>The Ditty Bag: Not Just for Sailors Anymore</title>
+ <link>http://www.getoutzine.com/node/7</link>
+ <description>&lt;p&gt;A backpacker’s skill is not judged by what they know to pack; rather, it’s what they know to not pack that sets them apart.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.getoutzine.com/node/7&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.getoutzine.com/taxonomy/term/2">Departments</category>
+ <category domain="http://www.getoutzine.com/taxonomy/term/11">Skill Set</category>
+ <pubDate>Thu, 03 Jan 2008 05:11:10 +0000</pubDate>
+ <dc:creator>master-admin</dc:creator>
+ <guid isPermaLink="false">7 at http://www.getoutzine.com</guid>
+</item>
+<item>
+ <title>Down to the Core</title>
+ <link>http://www.getoutzine.com/node/4</link>
+ <description>&lt;p&gt;Colin Shelton fully realized the healing power of Pilates a few years after a skiing accident that tore one of the tendons in his knee, resulting in surgery and pain.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.getoutzine.com/node/4&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.getoutzine.com/taxonomy/term/2">Departments</category>
+ <category domain="http://www.getoutzine.com/taxonomy/term/9">HEALTH and NUTrition</category>
+ <pubDate>Thu, 03 Jan 2008 04:16:53 +0000</pubDate>
+ <dc:creator>master-admin</dc:creator>
+ <guid isPermaLink="false">4 at http://www.getoutzine.com</guid>
+</item>
+<item>
+ <title>Commute by Bike</title>
+ <link>http://www.getoutzine.com/node/3</link>
+ <description>&lt;p&gt;I’m a desk jockey, but you’d never know it judging by the outfit I wear to work every day. It involves a funny hat and spandex pants.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.getoutzine.com/node/3&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.getoutzine.com/taxonomy/term/2">Departments</category>
+ <category domain="http://www.getoutzine.com/taxonomy/term/6">Green Up Your Act</category>
+ <pubDate>Thu, 03 Jan 2008 04:06:56 +0000</pubDate>
+ <dc:creator>master-admin</dc:creator>
+ <guid isPermaLink="false">3 at http://www.getoutzine.com</guid>
+</item>
+</channel>
+</rss>
