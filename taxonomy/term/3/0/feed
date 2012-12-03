@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.getoutzine.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>GetOut! - GO! Blog</title>
+ <link>http://www.getoutzine.com/taxonomy/term/3/0</link>
+ <description>Category for &#039;From the Editor&#039; articles</description>
+ <language>en</language>
+<item>
+ <title>GO! Blog</title>
+ <link>http://www.getoutzine.com/node/13</link>
+ <description>&lt;p&gt;Read editor Mary Reed&#039;s &lt;a href=&quot;http://getoutzine.blogspot.com/&quot; target=&quot;_blank&quot;&gt;Get Out! blog&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://www.getoutzine.com/taxonomy/term/3">GO! Blog</category>
+ <pubDate>Thu, 03 Jan 2008 22:16:55 +0000</pubDate>
+ <dc:creator>Mary</dc:creator>
+ <guid isPermaLink="false">13 at http://www.getoutzine.com</guid>
+</item>
+</channel>
+</rss>
